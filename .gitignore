@@ -10,7 +10,9 @@ docs/*
 public
 node_modules
 temp/
+testing
 npm-debug.log
+
 bootstrap.build/
 
 # Clacky Configuration
@@ -25,3 +27,6 @@ npm-debug.log*
 # Build output
 dist/
 build/
+
+
+test1
