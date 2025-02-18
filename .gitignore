@@ -12,3 +12,16 @@ node_modules
 temp/
 npm-debug.log
 bootstrap.build/
+
+# Clacky Configuration
+.1024*
+!.1024
+.breakpoints
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+build/
